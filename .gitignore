@@ -1,0 +1,11 @@
+node_modules
+apps/web/dist
+apps/web/coverage
+apps/server/dist
+apps/web/tsconfig.tsbuildinfo
+.env
+.env.*
+!.env.example
+.vercel
+.DS_Store
+npm-debug.log*
